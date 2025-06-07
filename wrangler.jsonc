@@ -18,7 +18,7 @@
         {
             "store_id": "c4625ec2d13e4c17970cc101699fde5d",
             "binding": "SECRET",
-            "secret_name": "<storecars"
+            "secret_name": "storecars"
         }
     ],
 	"observability": {
